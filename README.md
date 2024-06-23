@@ -1,1 +1,1 @@
-# PF-OOP
+This repository features projects for practicing programming fundamentals and object-oriented programming (OOP)
